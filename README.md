@@ -26,6 +26,30 @@ This project simulates a 2-stage rocket launch with realistic physics including 
 
 ---
 
+## Rocket Parameters
+
+### Stage 1
+- **Initial Mass**: 100 kg  
+- **Thrust**: 220,000 N  
+- **Burn Time**: 0.6 s  
+- **Mass Flow Rate**: 100 kg/s  
+
+### Stage 2
+- **Initial Mass**: 100 kg  
+- **Thrust**: 6,700 N  
+- **Burn Time**: 47 s  
+- **Mass Flow Rate**: 1.38 kg/s  
+
+### Payload
+- **Mass**: 11 kg  
+
+### Initial Conditions
+- **Position**: 0 m (on ground)  
+- **Velocity**: 0 m/s  
+- **Drag Coefficient**: 0.02  
+
+---
+
 ## Example Graphs
 
 ### Altitude Over Time  
