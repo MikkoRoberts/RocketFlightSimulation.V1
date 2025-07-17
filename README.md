@@ -29,10 +29,10 @@ This project simulates a 2-stage rocket launch with realistic physics including 
 ## Example Graphs
 
 ### Altitude Over Time  
-![Altitude](./graphs/altitude.png)
+![Altitude](./graphs/alt.png)
 
 ### Velocity Over Time  
-![Velocity](./graphs/velocity.png)
+![Velocity](./graphs/vel.png)
 
 ### Stage & Rocket Mass   
-![Rocket Mass Overview](./graphs/rocket_mass.png)
+![Rocket Mass Overview](./graphs/mass.png)
